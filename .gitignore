@@ -1,0 +1,4 @@
+perltidy
+perltidy.cfg
+tidy.sh
+*.csv
